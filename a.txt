@@ -2,3 +2,9 @@ aaaaaaaaaaaaaa
 bbbbbbbbbbbbbb
 cccccccccccccc
 dddddddddddddd
+<<<<<<< HEAD
+=======
+eeeeeeeeeeeeee
+fffffffffffff
+ggggggg
+>>>>>>> dev1
