@@ -3,6 +3,12 @@ bbbbbbbbbbbbbb
 cccccccccccccc
 dddddddddddddd
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+eeeeeeeeeeeeee
+fffffffffffff
+ggggggg
+>>>>>>> dev1
 =======
 eeeeeeeeeeeeee
 fffffffffffff
